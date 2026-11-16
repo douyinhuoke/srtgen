@@ -17,7 +17,7 @@
 无依赖，直接下载使用：
 
 ```bash
-curl -O https://raw.githubusercontent.com/<YOUR_USERNAME>/srtgen/main/srtgen.py
+curl -O https://raw.githubusercontent.com/douyinhuoke/srtgen/main/srtgen.py
 ```
 
 要求：Python 3.7+
